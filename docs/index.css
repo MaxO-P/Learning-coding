@@ -1,6 +1,11 @@
 body {
 	z-index: 0;
 	background-size: cover;
+	background-image: linear-gradient(to bottom right, rgb(255, 255, 255) , rgb(216, 216, 159));
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .center {
